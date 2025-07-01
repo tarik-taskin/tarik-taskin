@@ -1,7 +1,7 @@
 ## Hi there I am Tarık
 
 - 🔭 I’m currently working on Backend Development
-- 🌱 I’m currently learning Spring Boot
+- 🌱 I’m currently learning Spring Boot and TypeScript!
 - 💬 Ask me about React.Js
 - 📫 How to reach me: [...](https://www.linkedin.com/in/tarixtkn/)
 - 😄 Pronouns: He/Him
