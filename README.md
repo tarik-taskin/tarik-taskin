@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Backend Development
 - 🌱 I’m currently learning Spring Boot and Kotlin!
-- 💬 Ask me about React.Js
+- 💬 Ask me about Java or React
 - 📫 How to reach me: [...](https://www.linkedin.com/in/tarixtkn/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: Student
